@@ -1,0 +1,11 @@
+{
+  "name": "local-machine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jonsharratt/local-machine.git",
+  "author": "Jon Sharratt <jon@craftship.io>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^1.18.5"
+  }
+}

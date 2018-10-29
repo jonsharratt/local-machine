@@ -1,0 +1,19 @@
+tasks:
+  task-1:
+    image: node:carbon-alpine
+    command:
+      - yarn
+    args:
+      - install
+  task-2:
+    image: node:carbon-alpine
+    command:
+      - yarn
+    args:
+      - install
+  task-3:
+    image: node:carbon-alpine
+    command:
+      - yarn
+    args:
+      - install
